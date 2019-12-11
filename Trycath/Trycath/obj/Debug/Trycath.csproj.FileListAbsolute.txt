@@ -1,0 +1,7 @@
+C:\Users\ANDRÉ\source\repos\Trycath\Trycath\bin\Debug\Trycath.exe.config
+C:\Users\ANDRÉ\source\repos\Trycath\Trycath\bin\Debug\Trycath.exe
+C:\Users\ANDRÉ\source\repos\Trycath\Trycath\bin\Debug\Trycath.pdb
+C:\Users\ANDRÉ\source\repos\Trycath\Trycath\obj\Debug\Trycath.csprojAssemblyReference.cache
+C:\Users\ANDRÉ\source\repos\Trycath\Trycath\obj\Debug\Trycath.csproj.CoreCompileInputs.cache
+C:\Users\ANDRÉ\source\repos\Trycath\Trycath\obj\Debug\Trycath.exe
+C:\Users\ANDRÉ\source\repos\Trycath\Trycath\obj\Debug\Trycath.pdb

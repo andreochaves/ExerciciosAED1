@@ -1,0 +1,7 @@
+C:\Users\ANDRÉ\source\repos\RobosdoChaves\RobosdoChaves\obj\Debug\RobosdoChaves.csprojAssemblyReference.cache
+C:\Users\ANDRÉ\source\repos\RobosdoChaves\RobosdoChaves\obj\Debug\RobosdoChaves.csproj.CoreCompileInputs.cache
+C:\Users\ANDRÉ\source\repos\RobosdoChaves\RobosdoChaves\bin\Debug\RobosdoChaves.exe.config
+C:\Users\ANDRÉ\source\repos\RobosdoChaves\RobosdoChaves\bin\Debug\RobosdoChaves.exe
+C:\Users\ANDRÉ\source\repos\RobosdoChaves\RobosdoChaves\bin\Debug\RobosdoChaves.pdb
+C:\Users\ANDRÉ\source\repos\RobosdoChaves\RobosdoChaves\obj\Debug\RobosdoChaves.exe
+C:\Users\ANDRÉ\source\repos\RobosdoChaves\RobosdoChaves\obj\Debug\RobosdoChaves.pdb
