@@ -1,0 +1,12 @@
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\bin\Debug\AutoCenterHemera.exe.config
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\bin\Debug\AutoCenterHemera.exe
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\bin\Debug\AutoCenterHemera.pdb
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.csprojAssemblyReference.cache
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.telaP.resources
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.Properties.Resources.resources
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.csproj.GenerateResource.cache
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.csproj.CoreCompileInputs.cache
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.exe
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.pdb
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.Formulario.resources
+C:\Users\ANDRÉ\source\repos\AutoCenterHemera\AutoCenterHemera\obj\Debug\AutoCenterHemera.Orçamento.resources
