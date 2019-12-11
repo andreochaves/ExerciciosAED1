@@ -1,0 +1,7 @@
+C:\Users\ANDRÉ\source\repos\Calendary\Calendary\bin\Debug\Calendary.exe.config
+C:\Users\ANDRÉ\source\repos\Calendary\Calendary\bin\Debug\Calendary.exe
+C:\Users\ANDRÉ\source\repos\Calendary\Calendary\bin\Debug\Calendary.pdb
+C:\Users\ANDRÉ\source\repos\Calendary\Calendary\obj\Debug\Calendary.csprojAssemblyReference.cache
+C:\Users\ANDRÉ\source\repos\Calendary\Calendary\obj\Debug\Calendary.csproj.CoreCompileInputs.cache
+C:\Users\ANDRÉ\source\repos\Calendary\Calendary\obj\Debug\Calendary.exe
+C:\Users\ANDRÉ\source\repos\Calendary\Calendary\obj\Debug\Calendary.pdb
