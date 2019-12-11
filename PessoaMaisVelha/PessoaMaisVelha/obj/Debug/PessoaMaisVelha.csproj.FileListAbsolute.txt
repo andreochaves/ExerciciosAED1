@@ -1,0 +1,6 @@
+C:\Users\ANDRÉ\source\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.exe.config
+C:\Users\ANDRÉ\source\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.exe
+C:\Users\ANDRÉ\source\repos\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.pdb
+C:\Users\ANDRÉ\source\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.csprojAssemblyReference.cache
+C:\Users\ANDRÉ\source\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.exe
+C:\Users\ANDRÉ\source\repos\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.pdb
